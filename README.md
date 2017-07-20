@@ -25,3 +25,11 @@ Park Now is a simple app which can be used to look for parkinglots.
 #### 7. Add New Parking Lot
 - Onwers can add new parking lots if he or she has available lot.
 #### 8. Logout
+
+## Screenshots
+
+#### Parking Lot List
+![List](images/list.png)
+
+#### Owner Page
+![Owner Page](images/user.png)
